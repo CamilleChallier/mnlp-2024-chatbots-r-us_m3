@@ -1,0 +1,9 @@
+{
+  "team_name": "Chatbots-R-Us",
+  "task_type": "seq2seq",
+  "policy_acc": 0.3319108582266477,
+  "orig_model_size": 3132600320,
+  "quantized_model_size": 974903296,
+  "quantized": true,
+  "quantized_policy_acc": 0.3323850165955429
+}

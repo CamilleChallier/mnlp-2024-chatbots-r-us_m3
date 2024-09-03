@@ -1,0 +1,1 @@
+{"combined": {"accuracy": 0.49896812657647327}, "ai2": {"accuracy": 0.5733788395904437}, "sciq": {"accuracy": 0.777}, "mmlu": {"accuracy": 0.3309625414888573}, "M1": {"accuracy": 0.3625}, "num_params": 493743104, "memory_footprint": 974903296}
